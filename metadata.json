@@ -1,0 +1,6 @@
+{
+  "name": "Meridian",
+  "description": "Terminal de suivi de portefeuille multi-chaînes en lecture seule pour Base et Solana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
